@@ -1,0 +1,14 @@
+---
+title: "Courses"
+subtitle: "I teach the following this semester"
+title-block-banner: false
+---
+
++ [Econ 21003 (Principles of Macroeconomics)](./ec21003/_book)
+
++ [Econ 30303 (Intermediate Micro)](./ec30303/_book)
+
++ [Econ 31303 (Intermediate Macro)](./ec31303/_book)
+
+
+

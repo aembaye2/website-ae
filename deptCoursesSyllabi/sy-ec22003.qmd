@@ -1,0 +1,82 @@
+---
+title: "Econ 22003: Principles of Microeconomics"
+subtitle: ""
+title-block-banner: false
+---
+
+## Credit Hours: 3 
+
+## Prerequisites: 
+
+Math 1203 or higher, or a score of 26 on math part of ACT exam or 600 on math part of SAT exam.
+
+## Course Description: 
+
+The course introduces students to economics way of thinking to study households’ and firms’behavior and their interaction in markets and its effect on resource allocation. Both consumer andproducer behavior will be analyzed. Topics include, among others, the determination of pricesunder different market structures, elasticity and the effects of government policies in markets.
+
+## Learning Objectives: By the end of the course, the student should be able to:
+
+By the end of the course, the student should be able to:
++ Explain how supply and demand determine price and quantities of a good and theimplication of this for efficient allocation of resources. 
++ Explain the concept of elasticity and its applications in pricing and policy. 
++ Evaluate the efficiency of markets in allocating resources and the conditions necessary forperfect competition to exist. 
++ Examine different market structures, including monopolies, oligopolies, and monopolisticcompetition, and analyze their implications for market outcomes.
++ Discuss the role of government in regulating markets.
++ Analyze the theory of production and cost, including short-run and long-run decision-making by firms.
++ Apply microeconomic principles to real-world scenarios, such as pricing strategies, marketinterventions, and policy analysis, to develop critical thinking and problem-solving skills.
+
+## Value of the Course: 
+
+The course will provide students with a basic understanding of macroeconomic concepts critical to informed decision making, whether as a consumer, businessperson, voter, or policymaker.
+
+## Class Procedures: 
+This class is fully in person. Class will consist primarily of lectures and demonstrations, with students’ questions and participation in discussions greatly encouraged. 
+
+## Course Material:
+
+**Textbook (Required)**: Hubbard and O’Brien, Macroeconomics with MyLab Econ with eText, 9th edition, ISBN: 9780135348031. (Inclusive Access)
+
+References:
+
+Textbook (Required): Gregory. Principles of Micro(economics) , 10th edition, Publisher: Cengage.
+
+## ASSESSMENT
+
+
+| Type of Assessment                  | Points | Due Dates/Remarks              |
+|-------------------------------------|-------:|--------------------------------|
+| Attendance                          | 100    |                                |
+| Homework Assignments (10 of them)   | 150    |                                |
+| Midterm Exams (Two best of three)   | 400    | See Course Calendar for dates  |
+| Final Exam (Comprehensive)          | 350    | See Course Calendar for dates  |
+| **Total Points**                    | **1000** |                              |
+
+## Grading Scale
+$\ge$ 90= A, 80-89.99=  B, 70-79.99=  C, 60-69.99=  D, < 60 : F.
+
+## Course Content
+
+Introduction
+
++ Chapter 1 of Gregory Mankiw textbook (hereafter MG)
+    - Economic Way of Thinking
++ Chapter 2 (including the appendix– self study to refresh your math skills)
+    - Trade and Interdependence
++ Chapter 3
+    - Supply and Demand
++ Chapter 4
+    - Elasticity and Its Application
++ Ch. 5
+    - Supply, Demand, and Government Policies
++ Ch. 6
+    - Consumers, Producers and Efficiency of Markets
++ Ch. 7
+    - The Costs of Production
++ Ch. 13
+    - Perfect Competition
++ Ch. 14
+    - Monopoly
++ Ch. 15
+    - Monopolistic Competition
++ Ch. 16
+    - Oligopoly

@@ -1,0 +1,13 @@
+---
+title: ""
+subtitle: "I am also an assistant to the chair of department. The role entails ..."
+title-block-banner: false
+---
+
+# Course Syllabi
+
+- [Econ 21003- Principles of Macroeconomics](deptCoursesSyllabi/sy-ec21003.html)
+
+- [Econ 21003- Basic Economics Theory & Practice](deptCoursesSyllabi/sy-ec21403.html)
+
+- [Econ 22003- Principles of Microeconomics](deptCoursesSyllabi/sy-ec22003.html)

@@ -1,0 +1,56 @@
+---
+title: "Econ 2143: Basic Economics Theory and Practice"
+subtitle: ""
+title-block-banner: false
+---
+
+## Credit Hours: 3 
+
+## Prerequisites: 
+Math 1203 or higher, or a score of 26 on math part of ACT exam or 600 on math part of SAT exam.
+
+## Course Description: 
+The course is an introduction to economic issues on the national and international level and the tools to analyze them. The course discusses various economic models of aggregate economic indicators such as national income, inflation and unemployment.  It also addresses how these aggregates can be altered by monetary and fiscal policies.
+
+## Learning Objectives: By the end of the course, the student should be able to:
+
+1. Describe the concepts and measurement of gross domestic product, unemployment and inflation and the models used to explain and predict these variables. 
+2. Explain the difference between business cycle and economic growth and the factors that contribute to each. 
+3. Demonstrate how Aggregate Demand and Aggregate Supply determine equilibrium price level, output and employment in the short-run and long-run. 
+4. Describe the multiplier concept, how it is computed, and its qualifications and limitations. 
+5. Explain the concepts, tools, and implementation of fiscal and Monetary policies, each policy's limitations and relative advantages/disadvantages, and how each affects aggregate economic activity. 
+
+## Value of the Course: 
+
+The course will provide students with a basic understanding of macroeconomic concepts critical to informed decision making, whether as a consumer, businessperson, voter, or policymaker.
+
+## Class Procedures: 
+This class is fully in person. Class will consist primarily of lectures and demonstrations, with students’ questions and participation in discussions greatly encouraged. 
+
+## Course Material:
+
+**Textbook (Required)**: Hubbard and O’Brien, Macroeconomics with MyLab Econ with eText, 9th edition, ISBN: 9780135348031. (Inclusive Access)
+
+References:
+
+Mankiw, Gregory. *Brief Principles of Macro(economics)*, 9th edition, Publisher: Cengage.
+
+## ASSESSMENT
+
+
+| Type of Assessment                  | Points | Due Dates/Remarks              |
+|-------------------------------------|-------:|--------------------------------|
+| Attendance (Online)                 | 100    |                                |
+| Homework Assignments (10 of them)   | 150    |                                |
+| Midterm Exams (Two best of three)   | 400    | See Course Calendar for dates  |
+| Final Exam (Comprehensive)          | 350    | See Course Calendar for dates  |
+| **Total Points**                    | **1000** |                              |
+
+
+## Grading Scale
+>=90 = A, 80-89.99= B, 70-79.99= C, 60-69.99= D, <60 = F.
+
+## Course Content
+
+
+

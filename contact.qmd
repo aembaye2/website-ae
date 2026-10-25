@@ -1,0 +1,13 @@
+---
+title: "Contact"
+subtitle: " "
+title-block-banner: false
+---
+
+- {{< fa envelope >}} aembaye@uark.edu
+
+- {{< fa phone >}} 479 575 4361
+
+- {{< fa location-dot >}} WCOB 417A, Walton Business College, University of Arkansas
+
+- {{< fa clock >}} Tuesays & Thursdays 2:00 to 3:00 PM or by Appointment

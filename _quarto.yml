@@ -1,0 +1,139 @@
+project:
+  type: website
+  output-dir: docs
+  #pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
+  #  - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
+    
+# Meta
+description-meta: " "
+author-meta: "Abel Embaye"
+
+website:
+  title: "Home"
+  image: "files/images/headshot.jpg"
+  description: " "
+ 
+  navbar:
+    background: light  # You can change the background color here
+
+    left:   # You can comment out all navigation items here if you just like to keep the index page only
+#      - text: Home
+#        href: index.qmd
+      - text: Contact
+        href: contact.qmd
+      # - text: About
+      #   menu:
+      #     - text: News
+      #       href: posts.qmd#category=news
+      #     - text: Events
+      #       href: posts.qmd#category=event      
+      #     - text: Contact
+      #       href: contact.qmd 
+      # - text: Research
+      #   menu:
+      #     - text: Publications Listing  # Automatically generated from publications.xlsx
+      #       href: pub-listing.qmd
+      #     - text: Publications  # Manually curated list of publications
+      #       href: publications.qmd            
+      #     - text: Selected Papers
+      #       href: posts.qmd#category=paper
+      #     - text: Grants
+      #       href: projects.qmd  
+      - text: Research # Comment the Teaching part out to remove the Teaching page
+        href: publications2.qmd                              
+      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+        href: teaching.qmd
+      - text: Service # Comment the Teaching part out to remove the Teaching page
+        href: service.qmd
+      #- text: Blog
+      #- href: blog2.qmd
+      #- text: Outreach
+      #- menu:        
+      #- text: Presentations
+      #  href: posts.qmd#category=presentation                   
+      #- text: Group   # Comment the Group part out to remove the Group page
+      #  href: people.qmd
+
+    right: 
+      - text: CV
+        href: files/CV_Embaye.html
+      - icon: envelope
+        #text: E-mail
+        href: mailto:aembaye@uark.edu
+      - icon: github
+        href: https://github.com/aembaye2
+        target: _blank      
+      - icon: linkedin
+        #text: LinkedIn
+        href: https://www.linkedin.com/in/abel-embaye-816b9935/
+        target: _blank
+      - icon: youtube
+        #text: YouTube
+        href: https://www.youtube.com     
+        target: _blank 
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.cz/citations?user=brdnR-sAAAAJ&hl=en
+        target: _blank
+      # - text: "{{< fa brands bluesky >}}"
+      #   href: https://bsky.app
+      #   target: _blank
+      # - icon: rss
+      #   href: posts.xml
+      #   target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    #left: "[Abel Embaye](https://aembaye.hosted.uark.edu/) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "&copy; Abel Embaye <script>document.write(new Date().getFullYear())</script> These materials are not endorsed, approved, sponsored, or otherwise provided by or on behalf of the University of Arkansas, Fayetteville. All errors are mine."
+    # right:
+    #   - icon: github
+    #     href: https://github.com/aembaye2/quarto-academic-website-ae
+    #     target: _blank
+    #   - text: "{{< fa brands bluesky >}}" 
+    #     href: https://bsky.app
+    #     target: _blank
+    #   - icon: rss
+    #     href: posts.xml
+    #     target: _blank  
+  
+  search:
+    location: navbar
+    type: textbox
+  
+  reader-mode: true
+
+  draft-mode: unlinked
+  
+  repo-url: https://github.com/aembaye2/
+#  repo-actions: [edit, issue, source]
+  
+  open-graph: true
+  
+  twitter-card: true 
+#  card-style: summary      
+  
+  site-url: "https://aembaye.hosted.uark.edu"
+  
+  google-analytics:
+    tracking-id: ""  # Please delete or replace with your own tracking ID
+    anonymize-ip: true 
+
+bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    link-external-filter: '^(?:http:|https:)\/\/aembaye\.hosted\.uark\.edu\/custom'
+    include-in-header: "files/includes/_academic.qmd"
+
